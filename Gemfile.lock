@@ -184,6 +184,7 @@ GEM
       railties (>= 6.0.0)
     strscan (3.0.3)
     thor (1.2.1)
+    timecop (0.9.5)
     timeout (0.3.0)
     turbo-rails (1.1.1)
       actionpack (>= 6.0.0)
@@ -217,6 +218,7 @@ DEPENDENCIES
   rspec-rails (~> 3.5)
   sprockets-rails
   stimulus-rails
+  timecop
   turbo-rails
   tzinfo-data
   web-console
